@@ -1,0 +1,276 @@
+/* Media Query For Responsive Layout */
+
+@media screen and (min-width: 320px){
+  .hero__inner {
+    max-width: 280px;
+  }
+
+  .post-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .post__thumbnail {
+    max-height: 180px;
+  }
+
+  .post-content__rating span {
+    font-size: 14px;
+  }
+
+  .nav__brand {
+    margin-left: 8px;
+  }
+
+  .review-list__reviewerName {
+    max-width: 220px;
+  }
+
+  .review-list__description {
+    max-width: 220px;
+  }  
+}
+
+@media screen and (min-width: 430px){
+  .hero__inner {
+    max-width: 350px;
+  }
+
+  .post__thumbnail {
+    max-height: 195px;
+  }
+
+  .menu-wrapper {
+    max-width: 340px;
+  }
+
+  .detail-review__list{
+    width: 370px;
+  }
+
+  .review-list__reviewerName {
+    max-width: 300px;
+  }
+
+  .review-list__description {
+    max-width: 330px;
+  }  
+}
+
+@media screen and (min-width : 550px){
+  .hero__inner {
+    max-width: 480px;
+  }
+
+  .hero__title {
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    text-transform: capitalize;
+  }
+  
+  .hero__tagline {
+    color: #fff;
+    font-size: 12px;
+    font-size: 500;
+  }
+
+  .menu-wrapper {
+    max-width: 440px;
+  }
+
+  .detail-review__list{
+    width: 490px;
+  }
+
+  .review-list__reviewerName {
+    max-width: 440px;
+  }
+
+  .review-list__description {
+    max-width: 450px;
+  }  
+}
+
+@media screen and (min-width : 650px){
+  .hero__inner {
+    max-width: none;
+  }
+
+  .post-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .nav__brand {
+    margin-left: 32px;
+  }
+
+  .detail-container{
+    grid-template-columns: 1fr 1fr;;
+  }
+
+  .detail-content__description {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+
+  .menu-wrapper {
+    max-width: 540px;
+  }
+
+  .detail-review__list{
+    width: 590px;
+  }
+
+  .review-list__description {
+    max-width: 550px;
+  }  
+}
+
+@media screen and (max-width : 780px){
+  .nav__list {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    justify-content: start;
+    background-color: #000;
+    width: 100%;
+    top: 60px;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+    transform: translate(100%);
+    transition: transform 0.8s ease;
+  }
+
+  .open {
+    -webkit-transform: translate(0%);
+    transform: translate(0%);
+  }
+
+  .nav__item {
+    border-bottom: 1px solid #fff;
+    padding: 12px;
+  }
+
+  .nav__item a {
+    font-size: 18px;
+  }
+
+  .nav__mobile-toggle {
+    display: grid;
+  }
+
+  .post {
+    height: 450px;
+  }
+}
+
+@media screen and (min-width: 780px){
+  main {
+    width: 80%;
+  }
+
+  .menu-wrapper {
+    max-width: 580px;
+  }
+
+  .menu-wrapper::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .detail-review__list{
+    width: 560px;
+  }
+
+  .review-list__description {
+    max-width: 520px;
+  }  
+}
+
+@media screen and (min-width: 800px){
+  .post__thumbnail {
+    max-height: 220px;
+  }
+}
+
+@media screen and (min-width: 1024px){
+  .hero__title {
+    font-size: 22px;
+  }
+  
+  .hero__tagline {
+    font-size: 14px;
+  }
+
+  .content__label {
+    font-size: 22px;
+  }
+
+  .post-wrapper{
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .post__thumbnail {
+    max-height: 190px;
+  }
+
+  .post-content__place {
+    font-size: 14px;
+  }
+
+  .rating__outer {
+    font-size: 18px;
+  }
+
+  .rating__inner {
+    font-size: 18px;
+  }
+
+  .post-content__rating span {
+    font-size: 18px;
+  }
+
+  .post-content__description {
+    font-size: 14px;
+  }
+
+  .detail-content__info tr td p {
+    font-size: 16px;
+  }
+
+  .menu-wrapper {
+    max-width: 740px;
+  }
+
+  .detail-review__list{
+    width: 760px;
+  }
+
+  .review-list__description {
+    max-width: 720px;
+  }  
+
+  footer p {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 1320px){
+  main{
+    max-width: 1320px;
+  }
+
+  .menu-wrapper {
+    max-width: 980px;
+  }
+
+  .detail-review__list{
+    width: 980px;
+  }
+
+  .review-list__description {
+    max-width: 940px;
+  } 
+}

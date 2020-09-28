@@ -65,6 +65,7 @@ const createRestaurantDetailTemplate = (restaurant) => `
     <h2>Review</h2>
     <div class="detail-review__content">
       <div class="detail-review__list">
+      <ul>
       ${restaurant.consumerReviews.map((consumerReview) => `
         <li class="review-list">
           <img src="./images/avatar.png" class="review-list__image" alt="Avatar Reviewer Account"></img> 
@@ -74,6 +75,7 @@ const createRestaurantDetailTemplate = (restaurant) => `
           </div>
           <p class="review-list__description">${consumerReview.review}</p>
         </li>`).join('')}
+      </ul>
       </div>
       <div class="detail-review__form">
         <p aria-label="Masukkan Review Kamu">Write Your Review</p>

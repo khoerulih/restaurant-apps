@@ -62,19 +62,6 @@
     max-width: 480px;
   }
 
-  .hero__title {
-    color: #fff;
-    font-weight: 600;
-    font-size: 18px;
-    text-transform: capitalize;
-  }
-  
-  .hero__tagline {
-    color: #fff;
-    font-size: 12px;
-    font-size: 500;
-  }
-
   .menu-wrapper {
     max-width: 440px;
   }

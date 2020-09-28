@@ -4,8 +4,11 @@ import { registerRoute, setCatchHandler } from 'workbox-routing';
 import { precacheAndRoute } from 'workbox-precaching';
 import { NetworkFirst, CacheFirst, StaleWhileRevalidate } from 'workbox-strategies';
 import { ExpirationPlugin } from 'workbox-expiration';
-import { setCacheNameDetails, skipWaiting } from 'workbox-core';
+import { setCacheNameDetails, skipWaiting, clientsClaim } from 'workbox-core';
 import { CacheableResponsePlugin } from 'workbox-cacheable-response';
+
+skipWaiting();
+clientsClaim();
 
 setCacheNameDetails({ precache: 'precache' });
 precacheAndRoute(self.__WB_MANIFEST);
@@ -40,5 +43,3 @@ registerRoute(
 );
 
 setCatchHandler(new StaleWhileRevalidate());
-
-skipWaiting();

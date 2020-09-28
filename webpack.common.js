@@ -1,8 +1,7 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
-const ServiceWorkerWebpackPlugin = require('serviceworker-webpack-plugin');
-const { GenerateSW, InjectManifest } = require('workbox-webpack-plugin');
+const { InjectManifest } = require('workbox-webpack-plugin');
 
 module.exports = {
   entry: path.resolve(__dirname, 'src/scripts/index.js'),
@@ -44,20 +43,9 @@ module.exports = {
         },
       ],
     }),
-    new ServiceWorkerWebpackPlugin({
-      entry: path.resolve(__dirname, 'src/scripts/sw.js'),
-    }),
-    new GenerateSW({
-      exclude: [/\.(?:png|jpg|jpeg|svg)$/],
-      clientsClaim: true,
-      skipWaiting: true,
-      runtimeCaching: [{
-        urlPattern: new RegExp('https://dicoding-restaurant-api.el.r.appspot.com'),
-        handler: 'StaleWhileRevalidate',
-      }],
-    }),
     new InjectManifest({
       swSrc: path.join(process.cwd(), 'src/scripts/sw.js'),
+      swDest: 'sw.js',
     }),
   ],
 };

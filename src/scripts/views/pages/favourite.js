@@ -17,7 +17,7 @@ const Favourite = {
       if (result.length > 0) {
         restaurantsContainer.restaurants = result;
       } else {
-        restaurantsContainer.innerHTML = '<h2 class="error-message"> There`s no favourite restaurant found </h2>';
+        restaurantsContainer.innerHTML = '<h2 class="error-message">There`s no favourite restaurant found</h2>';
       }
     } catch {
       restaurantsContainer.innerHTML = '<h2 class="error-message"> Sorry, This page can`t be accessed in offline mode </h2>';

@@ -2,7 +2,7 @@ import UrlParser from '../../routes/url-parser';
 import RestaurantApi from '../../data/restaurant-api';
 import FavouriteRestaurant from '../../data/favourite-restaurant';
 import { createRestaurantDetailTemplate } from '../templates/template-component';
-import LikeButtonInitiator from '../../utils/like-button-initiator';
+import LikeButtonPresenter from '../../utils/like-button-presenter';
 import hideLoader from '../../utils/loader-initiator';
 import toastInitiator from '../../utils/toast-initiator';
 import API_ENDPOINT from '../../global/api-endpoint';
@@ -19,7 +19,7 @@ const Detail = {
         
         </div>
         <div id="likeButtonContainer"></div>
-        <div id="toast"></div>
+        <div id="toast" class=""></div>
       </div>
     `;
   },
@@ -61,8 +61,9 @@ const Detail = {
   },
 
   async _likeButtonInit(data) {
-    LikeButtonInitiator.init({
+    LikeButtonPresenter.init({
       likeButtonContainer: document.querySelector('#likeButtonContainer'),
+      favouriteRestaurant: FavouriteRestaurant,
       restaurant: {
         id: data.id,
         name: data.name,
@@ -75,7 +76,6 @@ const Detail = {
         menus: data.menus,
         consumerReviews: data.consumerReviews,
       },
-      toastContainer: document.querySelector('#toastContainer'),
     });
   },
 

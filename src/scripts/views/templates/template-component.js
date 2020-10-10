@@ -79,29 +79,29 @@ const createRestaurantDetailTemplate = (restaurant) => `
       </div>
       <div class="detail-review__form">
         <p aria-label="Masukkan Review Kamu">Write Your Review</p>
-        <input type="hidden" id="restaurantId" value="${restaurant.id}">
-        <input type="text" id="inputName" class="form-input" placeholder="Nama" aria-label="Input Nama.">
-        <input type="text" id="inputReview" class="form-input" placeholder="Review" aria-label="Input Review.">
+        <input type="hidden" name="user[id]" id="restaurantId" value="${restaurant.id}">
+        <input type="text" name="user[name]" id="inputName" class="form-input" placeholder="Nama" aria-label="Input Nama.">
+        <input type="text" name="user[review]" id="inputReview" class="form-input" placeholder="Review" aria-label="Input Review.">
         <button id="btnSubmit" aria-label="Button Kirimkan Review.">Submit</button>
       </div>
     </div>
   </div>
 `;
 
-const createLikeButtonTemplate = () => `
-  <button aria-label="Button Masukkan Ke Daftar Favorit." id="likeButton" class="like" tabindex="0">
+const createLikeRestaurantButtonTemplate = () => `
+  <button aria-label="Like this Restaurant." id="likeButton" class="like" tabindex="0">
     <i class="fa fa-heart-o" aria-hidden="true"></i>
   </button>
 `;
 
-const createLikedButtonTemplate = () => `
-  <button aria-label="Button Hapus Dari Daftar Favorit." id="likeButton" class="like" tabindex="0">
+const createUnlikeRestaurantButtonTemplate = () => `
+  <button aria-label="Unlike this Restaurant." id="likeButton" class="like" tabindex="0">
     <i class="fa fa-heart" aria-hidden="true"></i>
   </button>
 `;
 
 export {
   createRestaurantDetailTemplate,
-  createLikeButtonTemplate,
-  createLikedButtonTemplate,
+  createLikeRestaurantButtonTemplate,
+  createUnlikeRestaurantButtonTemplate,
 };

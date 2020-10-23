@@ -1,6 +1,10 @@
 /* Media Query For Responsive Layout */
 
 @media screen and (min-width: 320px){
+  .hero {
+    background-image: url("/images/hero-small.jpg");
+  }
+
   .hero__inner {
     max-width: 280px;
   }
@@ -165,6 +169,10 @@
 
   .menu-wrapper::-webkit-scrollbar {
     height: 8px;
+  }
+
+  .hero {
+    background-image: url("/images/hero-large.jpg");
   }
 
   .detail-review__list{

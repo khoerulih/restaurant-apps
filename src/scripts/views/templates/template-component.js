@@ -45,7 +45,11 @@ const createRestaurantDetailTemplate = (restaurant) => `
       <div class="menu-wrapper">
         ${restaurant.menus.foods.map((food) => `
           <div class="menu-wrapper__list">
-            <img src="./images/food.jpg" alt="Food Menu Avatar"></img> 
+            <img src="./images/food-large.jpg"
+              srcset="./images/food-small.jpg 480w, ./images/food-large.jpg 800w"
+              sizes="(max-width: 600px) 480px, 800px"
+              alt="Food Menu Avatar">
+            </img>
             <p aria-label="${food.name}." tabindex="0">${food.name}</p>
           </div>`).join('')}
       </div>
@@ -55,7 +59,11 @@ const createRestaurantDetailTemplate = (restaurant) => `
       <div class="menu-wrapper">
         ${restaurant.menus.drinks.map((drink) => `
           <div class="menu-wrapper__list">
-            <img src="./images/drink.png" alt="Drink Menu Avatar"></img>
+          <img src="./images/drink-large.jpg"
+            srcset="./images/drink-small.jpg 480w, ./images/drink-large.jpg 800w"
+            sizes="(max-width: 600px) 480px, 800px"
+            alt="Drink Menu Avatar">
+          </img>
             <p aria-label="${drink.name}" tabindex="0">${drink.name}</p>
             </div>`).join('')}
       </div>
@@ -68,7 +76,12 @@ const createRestaurantDetailTemplate = (restaurant) => `
       <ul>
       ${restaurant.consumerReviews.map((consumerReview) => `
         <li class="review-list">
-          <img src="./images/avatar.png" class="review-list__image" alt="Avatar Reviewer Account"></img> 
+          <img src="./images/avatar-large.jpg"
+            srcset="./images/avatar-small.jpg 480w, ./images/avatar-large.jpg 800w"
+            sizes="(max-width: 600px) 480px, 800px" 
+            class="review-list__image" 
+            alt="Avatar Reviewer Account">
+          </img> 
           <div style="display: inline-block; vertical-align:middle">
             <p class="review-list__reviewerName">${consumerReview.name}</p>
             <p><i>${consumerReview.date}</i></p>

@@ -4,7 +4,7 @@ Feature('Liking Restaurant');
 
 Before(({ I }) => {
   I.amOnPage('/#/favourite');
-})
+});
 
 Scenario('showing empty favourite restaurant pages', ({ I }) => {
   I.see('There`s no favourite restaurant found', '.error-message');
@@ -30,12 +30,12 @@ Scenario('like one restaurant and then unlike it', async ({ I }) => {
   I.seeElement('.post-content__title');
   const favouritedRestaurantName = await I.grabTextFrom('.post-content__title a');
 
-  // compare restaurant name that liked in detail pages 
+  // compare restaurant name that liked in detail pages
   // and restaurant name after liked in favourite pages
 
   assert.strictEqual(firstRestaurantName, favouritedRestaurantName);
 
-  // unlike restaurant process 
+  // unlike restaurant process
 
   I.click('.post-content__title a');
   I.seeElement('#likeButton');
@@ -58,11 +58,12 @@ Scenario('add review', async ({ I }) => {
 
   I.seeElement('.detail-review__form');
 
-  const review = 'e2e test';
-  I.fillField('user[name]', 'BotAsoyyy');
+  const review = 'mantap';
+  I.fillField('user[name]', 'BotAsoyyy2.0');
   I.fillField('user[review]', review);
 
   I.click('#btnSubmit');
+  I.seeElement('#toast');
 
   I.refreshPage();
 

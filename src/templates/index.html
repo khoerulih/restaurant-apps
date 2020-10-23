@@ -8,8 +8,16 @@
   <link rel="apple-touch-icon" href="/icons/icon-192x192.png">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="favicon.png">
-  <link href="https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <script src="https://kit.fontawesome.com/9956b81776.js" crossorigin="anonymous"></script>
+  <link 
+    href="https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap" 
+    rel="preload"
+    crossorigin="anonymous"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+    <script async src="https://kit.fontawesome.com/9956b81776.js" crossorigin="anonymous"></script>
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap">
+  </noscript>
   <title>Mangeons</title>
 </head>
 <body>

@@ -9,21 +9,10 @@ module.exports = {
   entry: path.resolve(__dirname, 'src/scripts/index.js'),
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js',
+    filename: '[name].bundle.js',
   },
   module: {
     rules: [
-      {
-        test: /\.css$/,
-        use: [
-          {
-            loader: 'style-loader',
-          },
-          {
-            loader: 'css-loader',
-          },
-        ],
-      },
       {
         test: /\.(png|svg|jpg|jpeg|gif)$/,
         use: [
@@ -42,20 +31,22 @@ module.exports = {
         {
           from: path.resolve(__dirname, 'src/public/'),
           to: path.resolve(__dirname, 'dist/'),
+          globOptions: {
+            ignore: ['**/images/**'],
+          },
         },
       ],
     }),
     new InjectManifest({
-      swSrc: path.join(process.cwd(), 'src/scripts/sw.js'),
-      swDest: 'sw.js',
+      swSrc: path.resolve(__dirname, 'src/scripts/sw.js'),
     }),
     new ImageminWebpackPlugin({
       plugins: [
         ImageminMozjpeg({
           quality: 50,
           progressive: true,
-        })
-      ]
-    })
+        }),
+      ],
+    }),
   ],
 };

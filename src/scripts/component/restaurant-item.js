@@ -12,7 +12,13 @@ class RestaurantItem extends HTMLElement {
   render() {
     this.innerHTML = `
       <a href="${`/#/detail/${this._restaurant.id}`}">
-        <img class="post__thumbnail" src="${API_ENDPOINT.IMAGE_MEDIUM + this._restaurant.pictureId}" role="img" alt="Thumbnail Restoran ${this._restaurant.name}." crossorigin="anonymous">
+        <img class="lazyload post__thumbnail" 
+          data-src="${API_ENDPOINT.IMAGE_SMALL + this._restaurant.pictureId}" 
+          role="img" 
+          alt="Thumbnail Restoran ${this._restaurant.name}." 
+          width="276" 
+          height="171" 
+          crossorigin="anonymous">
       </a>
       <div class="post-content">
         <h1 class="post-content__title" aria-label="Nama Restoran, ${this._restaurant.name}."><a href="${`/#/detail/${this._restaurant.id}`}">${this._restaurant.name}</a></h1>

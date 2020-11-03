@@ -74,7 +74,7 @@ const createRestaurantDetailTemplate = (restaurant) => `
     <div class="detail-review__content">
       <div class="detail-review__list">
       <ul>
-      ${restaurant.consumerReviews.map((consumerReview) => `
+      ${restaurant.customerReviews.map((consumerReview) => `
         <li class="review-list">
           <img src="./images/avatar-large.jpg"
             srcset="./images/avatar-small.jpg 480w, ./images/avatar-large.jpg 800w"

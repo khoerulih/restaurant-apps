@@ -4,9 +4,9 @@
   "warnings": [
   ],
   "version": "4.44.1",
-  "hash": "ef0cde4f93e9856f565c",
-  "time": 50533,
-  "builtAt": 1603372765132,
+  "hash": "178299deb5b4c844b697",
+  "time": 37115,
+  "builtAt": 1604391989213,
   "publicPath": "",
   "outputPath": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\dist",
   "assetsByChunkName": {
@@ -144,7 +144,7 @@
     },
     {
       "name": "main~29d6ecf2.bundle.js",
-      "size": 25926,
+      "size": 25911,
       "chunks": [
         0
       ],
@@ -249,7 +249,7 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 63897,
+      "size": 63554,
       "names": [
         "main~29d6ecf2"
       ],
@@ -257,7 +257,7 @@
         "0.css",
         "main~29d6ecf2.bundle.js"
       ],
-      "hash": "2866ed06fdec7980d3ab",
+      "hash": "73ddcc648242ac587bd7",
       "siblings": [
         1,
         2
@@ -371,7 +371,7 @@
           "name": "./src/scripts/index.js + 20 modules",
           "index": 0,
           "index2": 28,
-          "size": 50807,
+          "size": 50464,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1190,7 +1190,7 @@
                   "moduleName": "./src/scripts/data/restaurant-api.js",
                   "type": "harmony import specifier",
                   "userRequest": "../global/api-endpoint",
-                  "loc": "64:29-41"
+                  "loc": "63:29-41"
                 },
                 {
                   "moduleId": null,
@@ -1279,7 +1279,7 @@
               "name": "./src/scripts/data/restaurant-api.js",
               "index": 16,
               "index2": 12,
-              "size": 3733,
+              "size": 3690,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1669,7 +1669,7 @@
                   "moduleName": "./src/scripts/utils/like-button-presenter.js",
                   "type": "harmony import specifier",
                   "userRequest": "../views/templates/template-component",
-                  "loc": "120:42-78"
+                  "loc": "117:42-78"
                 }
               ],
               "usedExports": [
@@ -1692,7 +1692,7 @@
               "name": "./src/scripts/utils/like-button-presenter.js",
               "index": 23,
               "index2": 19,
-              "size": 5300,
+              "size": 5000,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1863,9 +1863,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\src\\scripts\\global\\api-endpoint.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\src\\scripts\\data\\favourite-restaurant.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/global/api-endpoint.js",
+              "issuerName": "./src/scripts/data/favourite-restaurant.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -1889,8 +1889,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\src\\scripts\\global\\api-endpoint.js",
-                  "name": "./src/scripts/global/api-endpoint.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\src\\scripts\\data\\favourite-restaurant.js",
+                  "name": "./src/scripts/data/favourite-restaurant.js"
                 }
               ],
               "failed": false,
@@ -2784,7 +2784,7 @@
       "name": "./src/scripts/index.js + 20 modules",
       "index": 0,
       "index2": 28,
-      "size": 50807,
+      "size": 50464,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -3603,7 +3603,7 @@
               "moduleName": "./src/scripts/data/restaurant-api.js",
               "type": "harmony import specifier",
               "userRequest": "../global/api-endpoint",
-              "loc": "64:29-41"
+              "loc": "63:29-41"
             },
             {
               "moduleId": null,
@@ -3692,7 +3692,7 @@
           "name": "./src/scripts/data/restaurant-api.js",
           "index": 16,
           "index2": 12,
-          "size": 3733,
+          "size": 3690,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4082,7 +4082,7 @@
               "moduleName": "./src/scripts/utils/like-button-presenter.js",
               "type": "harmony import specifier",
               "userRequest": "../views/templates/template-component",
-              "loc": "120:42-78"
+              "loc": "117:42-78"
             }
           ],
           "usedExports": [
@@ -4105,7 +4105,7 @@
           "name": "./src/scripts/utils/like-button-presenter.js",
           "index": 23,
           "index2": 19,
-          "size": 5300,
+          "size": 5000,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4276,9 +4276,9 @@
           "prefetched": false,
           "chunks": [
           ],
-          "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\src\\scripts\\global\\api-endpoint.js",
+          "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\src\\scripts\\data\\favourite-restaurant.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/global/api-endpoint.js",
+          "issuerName": "./src/scripts/data/favourite-restaurant.js",
           "issuerPath": [
             {
               "id": null,
@@ -4302,8 +4302,8 @@
             },
             {
               "id": null,
-              "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\src\\scripts\\global\\api-endpoint.js",
-              "name": "./src/scripts/global/api-endpoint.js"
+              "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\src\\scripts\\data\\favourite-restaurant.js",
+              "name": "./src/scripts/data/favourite-restaurant.js"
             }
           ],
           "failed": false,
@@ -6438,9 +6438,9 @@
                   "prefetched": false,
                   "chunks": [
                   ],
-                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
+                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-routing/registerRoute.js",
+                  "issuerName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -6449,13 +6449,13 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.mjs",
-                      "name": "./node_modules/workbox-routing/registerRoute.mjs"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.mjs",
+                      "name": "./node_modules/workbox-expiration/ExpirationPlugin.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
-                      "name": "./node_modules/workbox-routing/registerRoute.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                      "name": "./node_modules/workbox-expiration/ExpirationPlugin.js"
                     }
                   ],
                   "failed": false,
@@ -6520,18 +6520,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\printInstallDetails.js",
-                      "module": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
-                      "moduleName": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\printCleanupDetails.js",
+                      "module": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
+                      "moduleName": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "14:0-57"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\printCleanupDetails.js",
-                      "module": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
-                      "moduleName": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\printInstallDetails.js",
+                      "module": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
+                      "moduleName": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "14:0-57"
@@ -6709,18 +6709,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "37:0-57"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "37:0-57"
@@ -6812,9 +6812,9 @@
                   "prefetched": false,
                   "chunks": [
                   ],
-                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
+                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-routing/registerRoute.js",
+                  "issuerName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -6823,13 +6823,13 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.mjs",
-                      "name": "./node_modules/workbox-routing/registerRoute.mjs"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.mjs",
+                      "name": "./node_modules/workbox-expiration/ExpirationPlugin.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
-                      "name": "./node_modules/workbox-routing/registerRoute.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                      "name": "./node_modules/workbox-expiration/ExpirationPlugin.js"
                     }
                   ],
                   "failed": false,
@@ -6993,18 +6993,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/WorkboxError.js",
                       "loc": "38:0-69"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/WorkboxError.js",
                       "loc": "38:0-69"
@@ -7322,18 +7322,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                      "module": "./node_modules/workbox-strategies/NetworkOnly.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\CacheOnly.js",
+                      "module": "./node_modules/workbox-strategies/CacheOnly.js",
+                      "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/assert.js",
                       "loc": "18:0-57"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\CacheOnly.js",
-                      "module": "./node_modules/workbox-strategies/CacheOnly.js",
-                      "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                      "module": "./node_modules/workbox-strategies/NetworkOnly.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/assert.js",
                       "loc": "18:0-57"
@@ -7403,18 +7403,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/assert.js",
                       "loc": "32:0-57"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/assert.js",
                       "loc": "32:0-57"
@@ -7659,18 +7659,18 @@
                   "reasons": [
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\utils\\messages.js",
-                      "module": "./node_modules/workbox-strategies/utils/messages.js",
-                      "moduleName": "./node_modules/workbox-strategies/utils/messages.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\addFetchListener.js",
+                      "module": "./node_modules/workbox-precaching/utils/addFetchListener.js",
+                      "moduleName": "./node_modules/workbox-precaching/utils/addFetchListener.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/getFriendlyURL.js",
                       "loc": "9:0-73"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\addFetchListener.js",
-                      "module": "./node_modules/workbox-precaching/utils/addFetchListener.js",
-                      "moduleName": "./node_modules/workbox-precaching/utils/addFetchListener.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\utils\\messages.js",
+                      "module": "./node_modules/workbox-strategies/utils/messages.js",
+                      "moduleName": "./node_modules/workbox-strategies/utils/messages.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/getFriendlyURL.js",
                       "loc": "9:0-73"
@@ -7740,18 +7740,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/getFriendlyURL.js",
                       "loc": "36:0-73"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/getFriendlyURL.js",
                       "loc": "36:0-73"
@@ -8077,18 +8077,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/cacheNames.js",
                       "loc": "33:0-65"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/cacheNames.js",
                       "loc": "33:0-65"
@@ -9990,13 +9990,13 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.mjs",
-                      "name": "./node_modules/workbox-routing/registerRoute.mjs"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.mjs",
+                      "name": "./node_modules/workbox-expiration/ExpirationPlugin.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
-                      "name": "./node_modules/workbox-routing/registerRoute.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                      "name": "./node_modules/workbox-expiration/ExpirationPlugin.js"
                     },
                     {
                       "id": null,
@@ -10572,9 +10572,9 @@
                   "prefetched": false,
                   "chunks": [
                   ],
-                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\CacheOnly.js",
+                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/CacheOnly.js",
+                  "issuerName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -10593,8 +10593,8 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\CacheOnly.js",
-                      "name": "./node_modules/workbox-strategies/CacheOnly.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                     }
                   ],
                   "failed": false,
@@ -10641,18 +10641,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/cacheWrapper.js",
                       "loc": "34:0-69"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/cacheWrapper.js",
                       "loc": "34:0-69"
@@ -10762,9 +10762,9 @@
                   "prefetched": false,
                   "chunks": [
                   ],
-                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "issuerName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -10783,8 +10783,8 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                      "name": "./node_modules/workbox-strategies/NetworkOnly.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                     }
                   ],
                   "failed": false,
@@ -10795,21 +10795,21 @@
                   "reasons": [
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                      "module": "./node_modules/workbox-strategies/NetworkOnly.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
-                      "type": "harmony side effect evaluation",
-                      "userRequest": "workbox-core/_private/fetchWrapper.js",
-                      "loc": "19:0-69"
-                    },
-                    {
-                      "moduleId": null,
                       "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private.js",
                       "module": "./node_modules/workbox-core/_private.js",
                       "moduleName": "./node_modules/workbox-core/_private.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./_private/fetchWrapper.js",
                       "loc": "19:0-58"
+                    },
+                    {
+                      "moduleId": null,
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                      "module": "./node_modules/workbox-strategies/NetworkOnly.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                      "type": "harmony side effect evaluation",
+                      "userRequest": "workbox-core/_private/fetchWrapper.js",
+                      "loc": "19:0-69"
                     },
                     {
                       "moduleId": null,
@@ -10831,18 +10831,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/fetchWrapper.js",
                       "loc": "35:0-69"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/fetchWrapper.js",
                       "loc": "35:0-69"
@@ -10925,9 +10925,9 @@
                   "prefetched": false,
                   "chunks": [
                   ],
-                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private.js",
+                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\copyResponse.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-core/_private.js",
+                  "issuerName": "./node_modules/workbox-core/copyResponse.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -10946,8 +10946,8 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private.js",
-                      "name": "./node_modules/workbox-core/_private.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\copyResponse.js",
+                      "name": "./node_modules/workbox-core/copyResponse.js"
                     }
                   ],
                   "failed": false,
@@ -11540,9 +11540,9 @@
                   "prefetched": false,
                   "chunks": [
                   ],
-                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "issuerName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -11561,8 +11561,8 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                      "name": "./node_modules/workbox-strategies/NetworkOnly.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                     }
                   ],
                   "failed": false,
@@ -11600,18 +11600,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./utils/messages.js",
                       "loc": "39:0-47"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./utils/messages.js",
                       "loc": "39:0-47"
@@ -11638,9 +11638,9 @@
                   "prefetched": false,
                   "chunks": [
                   ],
-                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "issuerName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -11659,8 +11659,8 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "name": "./node_modules/workbox-strategies/StaleWhileRevalidate.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                     }
                   ],
                   "failed": false,
@@ -11671,15 +11671,6 @@
                   "reasons": [
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "type": "harmony side effect evaluation",
-                      "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
-                      "loc": "40:0-77"
-                    },
-                    {
-                      "moduleId": null,
                       "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
                       "module": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
@@ -11692,9 +11683,9 @@
                       "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
                       "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                      "type": "harmony import specifier",
+                      "type": "harmony side effect evaluation",
                       "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
-                      "loc": "88:66-88"
+                      "loc": "40:0-77"
                     },
                     {
                       "moduleId": null,
@@ -11710,15 +11701,24 @@
                       "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
                       "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "type": "harmony import specifier",
+                      "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
+                      "loc": "88:66-88"
+                    },
+                    {
+                      "moduleId": null,
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                       "type": "harmony import specifier",
                       "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
                       "loc": "91:23-45"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                      "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                      "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "type": "harmony import specifier",
                       "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
                       "loc": "91:23-45"
@@ -12317,13 +12317,13 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.mjs",
-                      "name": "./node_modules/workbox-routing/registerRoute.mjs"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.mjs",
+                      "name": "./node_modules/workbox-expiration/ExpirationPlugin.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
-                      "name": "./node_modules/workbox-routing/registerRoute.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                      "name": "./node_modules/workbox-expiration/ExpirationPlugin.js"
                     },
                     {
                       "id": null,
@@ -12384,9 +12384,9 @@
                   "prefetched": false,
                   "chunks": [
                   ],
-                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\fetchWrapper.js",
+                  "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\cacheWrapper.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-core/_private/fetchWrapper.js",
+                  "issuerName": "./node_modules/workbox-core/_private/cacheWrapper.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -12405,13 +12405,13 @@
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                      "name": "./node_modules/workbox-strategies/NetworkOnly.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                      "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                     },
                     {
                       "id": null,
-                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\fetchWrapper.js",
-                      "name": "./node_modules/workbox-core/_private/fetchWrapper.js"
+                      "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\cacheWrapper.js",
+                      "name": "./node_modules/workbox-core/_private/cacheWrapper.js"
                     }
                   ],
                   "failed": false,
@@ -12422,18 +12422,18 @@
                   "reasons": [
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\fetchWrapper.js",
-                      "module": "./node_modules/workbox-core/_private/fetchWrapper.js",
-                      "moduleName": "./node_modules/workbox-core/_private/fetchWrapper.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\cacheWrapper.js",
+                      "module": "./node_modules/workbox-core/_private/cacheWrapper.js",
+                      "moduleName": "./node_modules/workbox-core/_private/cacheWrapper.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "../utils/pluginUtils.js",
                       "loc": "22:0-54"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\cacheWrapper.js",
-                      "module": "./node_modules/workbox-core/_private/cacheWrapper.js",
-                      "moduleName": "./node_modules/workbox-core/_private/cacheWrapper.js",
+                      "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\fetchWrapper.js",
+                      "module": "./node_modules/workbox-core/_private/fetchWrapper.js",
+                      "moduleName": "./node_modules/workbox-core/_private/fetchWrapper.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "../utils/pluginUtils.js",
                       "loc": "22:0-54"
@@ -14578,9 +14578,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-routing/registerRoute.js",
+              "issuerName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -14589,13 +14589,13 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.mjs",
-                  "name": "./node_modules/workbox-routing/registerRoute.mjs"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.mjs",
+                  "name": "./node_modules/workbox-expiration/ExpirationPlugin.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
-                  "name": "./node_modules/workbox-routing/registerRoute.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                  "name": "./node_modules/workbox-expiration/ExpirationPlugin.js"
                 }
               ],
               "failed": false,
@@ -14660,18 +14660,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\printInstallDetails.js",
-                  "module": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
-                  "moduleName": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\printCleanupDetails.js",
+                  "module": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
+                  "moduleName": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "14:0-57"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\printCleanupDetails.js",
-                  "module": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
-                  "moduleName": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\printInstallDetails.js",
+                  "module": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
+                  "moduleName": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "14:0-57"
@@ -14849,18 +14849,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "37:0-57"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "37:0-57"
@@ -14952,9 +14952,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-routing/registerRoute.js",
+              "issuerName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -14963,13 +14963,13 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.mjs",
-                  "name": "./node_modules/workbox-routing/registerRoute.mjs"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.mjs",
+                  "name": "./node_modules/workbox-expiration/ExpirationPlugin.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
-                  "name": "./node_modules/workbox-routing/registerRoute.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                  "name": "./node_modules/workbox-expiration/ExpirationPlugin.js"
                 }
               ],
               "failed": false,
@@ -15133,18 +15133,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/WorkboxError.js",
                   "loc": "38:0-69"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/WorkboxError.js",
                   "loc": "38:0-69"
@@ -15462,18 +15462,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                  "module": "./node_modules/workbox-strategies/NetworkOnly.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\CacheOnly.js",
+                  "module": "./node_modules/workbox-strategies/CacheOnly.js",
+                  "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/assert.js",
                   "loc": "18:0-57"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\CacheOnly.js",
-                  "module": "./node_modules/workbox-strategies/CacheOnly.js",
-                  "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                  "module": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/assert.js",
                   "loc": "18:0-57"
@@ -15543,18 +15543,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/assert.js",
                   "loc": "32:0-57"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/assert.js",
                   "loc": "32:0-57"
@@ -15799,18 +15799,18 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\utils\\messages.js",
-                  "module": "./node_modules/workbox-strategies/utils/messages.js",
-                  "moduleName": "./node_modules/workbox-strategies/utils/messages.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\addFetchListener.js",
+                  "module": "./node_modules/workbox-precaching/utils/addFetchListener.js",
+                  "moduleName": "./node_modules/workbox-precaching/utils/addFetchListener.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/getFriendlyURL.js",
                   "loc": "9:0-73"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-precaching\\utils\\addFetchListener.js",
-                  "module": "./node_modules/workbox-precaching/utils/addFetchListener.js",
-                  "moduleName": "./node_modules/workbox-precaching/utils/addFetchListener.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\utils\\messages.js",
+                  "module": "./node_modules/workbox-strategies/utils/messages.js",
+                  "moduleName": "./node_modules/workbox-strategies/utils/messages.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/getFriendlyURL.js",
                   "loc": "9:0-73"
@@ -15880,18 +15880,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/getFriendlyURL.js",
                   "loc": "36:0-73"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/getFriendlyURL.js",
                   "loc": "36:0-73"
@@ -16217,18 +16217,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/cacheNames.js",
                   "loc": "33:0-65"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/cacheNames.js",
                   "loc": "33:0-65"
@@ -18130,13 +18130,13 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.mjs",
-                  "name": "./node_modules/workbox-routing/registerRoute.mjs"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.mjs",
+                  "name": "./node_modules/workbox-expiration/ExpirationPlugin.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
-                  "name": "./node_modules/workbox-routing/registerRoute.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                  "name": "./node_modules/workbox-expiration/ExpirationPlugin.js"
                 },
                 {
                   "id": null,
@@ -18712,9 +18712,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\CacheOnly.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/CacheOnly.js",
+              "issuerName": "./node_modules/workbox-strategies/NetworkFirst.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -18733,8 +18733,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\CacheOnly.js",
-                  "name": "./node_modules/workbox-strategies/CacheOnly.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                 }
               ],
               "failed": false,
@@ -18781,18 +18781,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/cacheWrapper.js",
                   "loc": "34:0-69"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/cacheWrapper.js",
                   "loc": "34:0-69"
@@ -18902,9 +18902,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/NetworkOnly.js",
+              "issuerName": "./node_modules/workbox-strategies/NetworkFirst.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -18923,8 +18923,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                  "name": "./node_modules/workbox-strategies/NetworkOnly.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                 }
               ],
               "failed": false,
@@ -18935,21 +18935,21 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                  "module": "./node_modules/workbox-strategies/NetworkOnly.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "workbox-core/_private/fetchWrapper.js",
-                  "loc": "19:0-69"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private.js",
                   "module": "./node_modules/workbox-core/_private.js",
                   "moduleName": "./node_modules/workbox-core/_private.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./_private/fetchWrapper.js",
                   "loc": "19:0-58"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                  "module": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "workbox-core/_private/fetchWrapper.js",
+                  "loc": "19:0-69"
                 },
                 {
                   "moduleId": null,
@@ -18971,18 +18971,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/fetchWrapper.js",
                   "loc": "35:0-69"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/fetchWrapper.js",
                   "loc": "35:0-69"
@@ -19065,9 +19065,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\copyResponse.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-core/_private.js",
+              "issuerName": "./node_modules/workbox-core/copyResponse.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -19086,8 +19086,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private.js",
-                  "name": "./node_modules/workbox-core/_private.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\copyResponse.js",
+                  "name": "./node_modules/workbox-core/copyResponse.js"
                 }
               ],
               "failed": false,
@@ -19680,9 +19680,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/NetworkOnly.js",
+              "issuerName": "./node_modules/workbox-strategies/NetworkFirst.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -19701,8 +19701,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                  "name": "./node_modules/workbox-strategies/NetworkOnly.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                 }
               ],
               "failed": false,
@@ -19740,18 +19740,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils/messages.js",
                   "loc": "39:0-47"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils/messages.js",
                   "loc": "39:0-47"
@@ -19778,9 +19778,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+              "issuerName": "./node_modules/workbox-strategies/NetworkFirst.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -19799,8 +19799,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "name": "./node_modules/workbox-strategies/StaleWhileRevalidate.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                 }
               ],
               "failed": false,
@@ -19811,15 +19811,6 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
-                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
-                  "loc": "40:0-77"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
                   "module": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
@@ -19832,9 +19823,9 @@
                   "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
                   "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
-                  "type": "harmony import specifier",
+                  "type": "harmony side effect evaluation",
                   "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
-                  "loc": "88:66-88"
+                  "loc": "40:0-77"
                 },
                 {
                   "moduleId": null,
@@ -19850,15 +19841,24 @@
                   "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
                   "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
+                  "loc": "88:66-88"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
                   "type": "harmony import specifier",
                   "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
                   "loc": "91:23-45"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
-                  "module": "./node_modules/workbox-strategies/NetworkFirst.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkFirst.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
+                  "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "type": "harmony import specifier",
                   "userRequest": "./plugins/cacheOkAndOpaquePlugin.js",
                   "loc": "91:23-45"
@@ -20457,13 +20457,13 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.mjs",
-                  "name": "./node_modules/workbox-routing/registerRoute.mjs"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.mjs",
+                  "name": "./node_modules/workbox-expiration/ExpirationPlugin.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-routing\\registerRoute.js",
-                  "name": "./node_modules/workbox-routing/registerRoute.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                  "name": "./node_modules/workbox-expiration/ExpirationPlugin.js"
                 },
                 {
                   "id": null,
@@ -20524,9 +20524,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\fetchWrapper.js",
+              "issuer": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\cacheWrapper.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-core/_private/fetchWrapper.js",
+              "issuerName": "./node_modules/workbox-core/_private/cacheWrapper.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -20545,13 +20545,13 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                  "name": "./node_modules/workbox-strategies/NetworkOnly.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-strategies\\NetworkFirst.js",
+                  "name": "./node_modules/workbox-strategies/NetworkFirst.js"
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\fetchWrapper.js",
-                  "name": "./node_modules/workbox-core/_private/fetchWrapper.js"
+                  "identifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\cacheWrapper.js",
+                  "name": "./node_modules/workbox-core/_private/cacheWrapper.js"
                 }
               ],
               "failed": false,
@@ -20562,18 +20562,18 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\fetchWrapper.js",
-                  "module": "./node_modules/workbox-core/_private/fetchWrapper.js",
-                  "moduleName": "./node_modules/workbox-core/_private/fetchWrapper.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\cacheWrapper.js",
+                  "module": "./node_modules/workbox-core/_private/cacheWrapper.js",
+                  "moduleName": "./node_modules/workbox-core/_private/cacheWrapper.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../utils/pluginUtils.js",
                   "loc": "22:0-54"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\cacheWrapper.js",
-                  "module": "./node_modules/workbox-core/_private/cacheWrapper.js",
-                  "moduleName": "./node_modules/workbox-core/_private/cacheWrapper.js",
+                  "moduleIdentifier": "E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!E:\\Karya\\Submission_Dicoding\\Menjadi Front-End Web Developer Expert\\Submission\\restaurant-apps\\node_modules\\workbox-core\\_private\\fetchWrapper.js",
+                  "module": "./node_modules/workbox-core/_private/fetchWrapper.js",
+                  "moduleName": "./node_modules/workbox-core/_private/fetchWrapper.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../utils/pluginUtils.js",
                   "loc": "22:0-54"

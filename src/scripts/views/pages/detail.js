@@ -48,7 +48,8 @@ const Detail = {
         senderName.value = '';
         senderReview.value = '';
       });
-    } catch {
+    } catch (e) {
+      console.log(e);
       hideLoader();
       if (await FavouriteRestaurant.getRestaurant(url.id)) {
         restaurant = await FavouriteRestaurant.getRestaurant(url.id);
